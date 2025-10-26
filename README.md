@@ -1,4 +1,7 @@
 # Moscow_SUHI
+![Workflow](scheme.jpg)
+
+## Description
 Code used to get and analyse Moscow SUHI (Surface Urban Heat Island) in 1984-2024 using Landsat-5,8 data.
 <br>
 It's free to use for your own researches on SUHI anywhere on Earth.
@@ -6,7 +9,7 @@ It's free to use for your own researches on SUHI anywhere on Earth.
 # This data includes:
 1. Anonymized Google Earth Engine (js) repository for raw data processing and receiving data for further analysis (*button below*) <br>
 [![Open in Earth Engine](https://img.shields.io/badge/Open%20in-GEE-green?style=flat&logo=googleearthengine)](https://code.earthengine.google.com/b010e4836f3df60e942859e02eec83e8?noload=true)
-3. Jupyter notebooks used for data analysis, including:
+3. Jupyter notebooks (commented) used for data analysis, including:
    - CRU_TS_vs_LST_validation_en: CRU TS Reanalysis-based received data validation
    - lcz_time_series_analysis_en: average LST (land surface temperature) dynamics analysis by dedicated local climate zones
    - suhi_area_dynamics_en: general SUHI area dynamics analysis
