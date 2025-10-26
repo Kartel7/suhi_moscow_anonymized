@@ -4,8 +4,8 @@ Code used to get and analyse Moscow SUHI (Surface Urban Heat Island) in 1984-202
 It's free to use for your own researches on SUHI anywhere on Earth.
 
 # This data includes:
-1. Google Earth Engine (js) code for raw data processing and receiving data for further analysis (*button below*) <br>
-[button temporarily hidden, check raw JS code file]
+1. Anonymized Google Earth Engine (js) repository for raw data processing and receiving data for further analysis (*button below*) <br>
+[![Open in Earth Engine](https://img.shields.io/badge/Open%20in-GEE-green?style=flat&logo=googleearthengine)](https://code.earthengine.google.com/b010e4836f3df60e942859e02eec83e8?noload=true)
 3. Jupyter notebooks used for data analysis, including:
    - CRU_TS_vs_LST_validation_en: CRU TS Reanalysis-based received data validation
    - lcz_time_series_analysis_en: average LST (land surface temperature) dynamics analysis by dedicated local climate zones
