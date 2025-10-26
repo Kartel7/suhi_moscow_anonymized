@@ -1,5 +1,8 @@
 # Moscow_SUHI
 ![Workflow](scheme.jpg)
+Green: imlpemented via Google Earth Engine
+Orange: implemented via Python (Jupyter Notebooks)
+Gray: cannot be seen in this repository
 
 ## Description
 Code used to get and analyse Moscow SUHI (Surface Urban Heat Island) in 1984-2024 using Landsat-5,8 data.
